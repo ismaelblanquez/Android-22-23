@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                editName.setText("PEPE");
-                editPassword.setText("PALOTES");
+                editName.setText(student.getName());
+                editPassword.setText(student.getSurname());
             }
         });
 
