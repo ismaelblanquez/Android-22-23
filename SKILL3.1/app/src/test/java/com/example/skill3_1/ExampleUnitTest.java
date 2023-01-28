@@ -1,4 +1,4 @@
-package com.example.login3;
+package com.example.skill3_1;
 
 import org.junit.Test;
 
