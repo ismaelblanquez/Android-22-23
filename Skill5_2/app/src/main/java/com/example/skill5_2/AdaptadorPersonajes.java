@@ -1,6 +1,5 @@
 package com.example.skill5_2;
 
-import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -30,7 +29,7 @@ public class AdaptadorPersonajes
     public ViewHolderPersonajes onCreateViewHolder(ViewGroup parent, int viewType) {
         int layout=0;
         if (Utilidades.visualizacion==Utilidades.LIST){
-            layout=R.layout.iem_list_personajes;
+            layout=R.layout.item_list_personajes;
         }else {
             layout=R.layout.item_grid_personajes;
         }

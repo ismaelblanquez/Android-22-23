@@ -31,6 +31,7 @@
 
     </LinearLayout>
 
+    <!--suppress AndroidUnresolvableTag -->
     <android.support.v7.widget.RecyclerView
         android:id="@+id/RecyclerId"
         android:layout_width="match_parent"
