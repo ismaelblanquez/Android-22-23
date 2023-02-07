@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Skill5_4</string>
+    <string name="communication_error" />
+    <string name="most_popular_movies">\"\"</string>
+</resources>
